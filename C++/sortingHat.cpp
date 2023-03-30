@@ -1,3 +1,4 @@
+//This program is sorts a user into a harry potter house
 #include <iostream>
 #include <string>
 using namespace std;
